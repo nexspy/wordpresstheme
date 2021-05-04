@@ -1,0 +1,10 @@
+/**
+Theme Name: Test Theme
+Author: Nirmal Limbu
+ */
+
+body { background-color: lightgray; }
+
+h1 { font-size: 32px; font-weight: bold; border: 1px solid gray; }
+
+header { background-color: white; width: 100%; min-height: 100px; }
